@@ -6,8 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A creative soul with a passion for innovation aiming to solve problems of my women friends and the world. As an aspiring entrepreneur, inspiring others.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Chandana&hide=asp&langs_count=5&border_radius=16&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Chandana&hide=asp&langs_count=5&border_radius=16&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Chandana&hide=asp&langs_count=5&border_radius=16&layout=compact&theme=dark#gh-dark-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Chandana&hide=asp&langs_count=5&border_radius=16&layout=compact&theme=default#gh-light-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
  [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-Chandana&show_icons=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-Chandana&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
